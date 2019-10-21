@@ -11,6 +11,7 @@ test-output
 selenium_standalone
 selenium_standalone_zips
 phantomjsdriver.log
+chromedriver.exe
 
 
 ### Gradle
